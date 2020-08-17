@@ -1,9 +1,11 @@
-### Hello there, my name is Sipo 👋
+### Hello there, my name is Sipo. 👋
 
 ## Full Stack Python Developer, and FMCG Product Manager
 
 - 🎓 Higher National Diploma – HND, Computing Software Development – Graduate
-- 🔭 Master of Science – MSc, Computer Science with Software Engineering – Student
+- 🎓 PRojects IN Controlled Environments – PRINCE2, Project Management – Practitoner
+- 🎓 Higher National Diploma – HND, Computing Software Development – Graduate
+- 🔭 Master of Science – MSc, Computer Science with Software Engineering – Distance Learner
 - 🎓 Master of Business Administration – MBA, Business Administration and Management, General – Graduate
 - 💻 Focused on Python/Django Development – Flask/JavaScript
 - 👯 Open to collaborate with other developers
@@ -51,6 +53,6 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://www.sipo.io/
 [medium]: https://medium.com/@sipocharles18
 [linkedin]: https://www.linkedin.com/in/sipo-cyrus-charles/
