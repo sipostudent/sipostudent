@@ -52,6 +52,15 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://www.sipo.io/
 [medium]: https://medium.com/@sipocharles18
 [linkedin]: https://www.linkedin.com/in/sipo-cyrus-charles/
