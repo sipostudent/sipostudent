@@ -4,7 +4,6 @@
 
 - 🎓 Higher National Diploma – HND, Computing Software Development – Graduate
 - 🎓 PRojects IN Controlled Environments – PRINCE2, Project Management – Practitoner
-- 🎓 Higher National Diploma – HND, Computing Software Development – Graduate
 - 🔭 Master of Science – MSc, Computer Science with Software Engineering – Distance Learner
 - 🎓 Master of Business Administration – MBA, Business Administration and Management, General – Graduate
 - 💻 Focused on Python/Django Development – Flask/JavaScript
