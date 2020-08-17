@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&show_icons=true&hide_border=true" />
+  <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true" />
 
 </details>
 
