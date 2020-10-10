@@ -1,7 +1,5 @@
 <br align = "center">
-  <img src = "img/full-stack-python.jpg">
-  <br>
-
+<img src = "img/full-stack-python.jpg">
 <br>
 
 <h2>About</h2>
@@ -10,29 +8,22 @@
 
 <p>Other experience includes project management, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards and to determine product specifications, production timelines, and in-depth plans for product development.</p>
 
-<br>
-
 <h2>Languages and technologies</h2>
 
 <p>HTML, CSS, SASS, JavaScript, jQuery, Chart.js, Python, Django, Flask, SQLAlchemy, PostgreSQL, MongoDB, Jasmine, Pandas, Sklearn, Keras, Git, Linux (UNIX), Heroku, AWS</p>
-
-<br>
 
 <h2>Connect on</h2>
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sipo Charles | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
 <br />
 
 ---
 
 <details>
-  <summary>:zap: Github stats</summary>
-
-  <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true" />
-
+    <summary>:zap: Github stats</summary>
+    <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://www.sipo.io/
