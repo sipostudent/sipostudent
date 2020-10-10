@@ -1,17 +1,24 @@
-### Hello there, my name is Sipo. 👋
+<br align = "center">
+  <img src = "img/full-stack-python.jpg">
+  <br>
 
-## Full Stack Python Developer, and FMCG Product Manager
+<br>
 
-- 🎓 Higher National Diploma – HND, Computing Software Development – Graduate
-- 🎓 PRojects IN Controlled Environments – PRINCE2, Project Management – Practitoner
-- 🔭 Master of Science – MSc, Computer Science with Software Engineering – Distance Learner
-- 🎓 Master of Business Administration – MBA, Business Administration and Management, General – Graduate
-- 💻 Focused on Python/Django Development – Flask/JavaScript
-- 👯 Open to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🌍 Availability: Location flexible
+<h2>About</h2>
 
-### Connect with me:
+<p>Python and Django Full Stack Web Developer – Flask/JavaScript, with a project/product management background. Adept in various stages of the web development life cycle, and MSc Computer Science with Software Engineering distance learner. Experience in developing static, dynamic, E-commerce, and portal web applications.</p>
+
+<p>Other experience includes project management, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards and to determine product specifications, production timelines, and in-depth plans for product development.</p>
+
+<br>
+
+<h2>Languages and technologies</h2>
+
+<p>HTML, CSS, SASS, JavaScript, jQuery, Chart.js, Python, Django, Flask, SQLAlchemy, PostgreSQL, MongoDB, Jasmine, Pandas, Sklearn, Keras, Git, Linux (UNIX), Heroku, AWS</p>
+
+<br>
+
+<h2>Connect on</h2>
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,43 +26,10 @@
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][website]
-
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][website]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
-
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
-
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Github stats</summary>
 
   <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true" />
 
