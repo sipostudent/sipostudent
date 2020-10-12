@@ -1,4 +1,4 @@
-<img align = "center" src = "img/fs-python.jpg">
+<img align = "center" src = "img/fs-py.jpg">
 
 <h2>About Me</h2>
 
