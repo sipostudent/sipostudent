@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p>Python and Django Full Stack Web Developer – Flask/JavaScript, with a project/product management background. Adept in various stages of the web development life cycle, and MSc Computer Science with Software Engineering distance learner. Experience in developing static, dynamic, E-commerce, and portal web applications.</p>
+<p>Python and Django Full Stack Web Developer – Flask/JavaScript, with a project/product management background. Adept in various stages of the web development life cycle, and MSc Computer Science with Software Engineering distance learner. Focused on developing static, dynamic, E-commerce, and portal web applications.</p>
 
 <p>Other experience includes project management, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards and to determine product specifications, production timelines, and in-depth plans for product development.</p>
 
