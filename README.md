@@ -8,7 +8,7 @@
 
 <h2>Languages and Technologies</h2>
 
-<p>HTML, CSS, SASS, JavaScript, jQuery, Chart.js, Python, Django, Flask, SQLAlchemy, PostgreSQL, MongoDB, Jasmine, Pandas, Sklearn, Keras, Git, Linux (UNIX), Heroku, AWS</p>
+<p>HTML, CSS, SASS, JavaScript, jQuery, Chart.js, Python, Django, Flask, SQLAlchemy, PostgreSQL, MongoDB, Jasmine, Pandas, Sklearn, Keras, Git, Linux (UNIX), Heroku, AWS.</p>
 
 <h2>Connect On</h2>
 
