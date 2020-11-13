@@ -1,4 +1,4 @@
-<img align = "center" src = "img/fs-py.jpg">
+<img align = "center" src = "img/vue-django.png">
 
 <h2>About Me</h2>
 
