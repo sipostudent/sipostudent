@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p>Python and Django Full Stack Web Developer – Vue.js/Flask/Javascript. Adept in various stages of the web development life cycle, and MSc Computer Science With Software Engineering distance learner. A keen focus on developing static, dynamic, e-commerce, and portal web applications.</p>
+<p>Python and Django Full Stack Web Developer. Adept in various stages of the web development life cycle, and MSc Computer Science With Software Engineering distance learner. A keen focus on developing static, dynamic, e-commerce, and portal web applications.</p>
 
 <p>Additional: Product Management, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards and to determine product specifications, production timelines, and in-depth plans for product development.</p>
 
