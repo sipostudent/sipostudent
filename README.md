@@ -6,7 +6,7 @@
 
 <p><b>Additional</b>: <i>Product Management</i>, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards, and determining product specifications, production timelines, and in-depth plans for product development.</p>
 
-<h2><b>Languages and Technologies</b></h2>
+<h2>Languages and Technologies</h2>
 
 <p>AWS, Atom, CSS, D3.js, Django, Django REST Framework, Docker, Flask, Git, GitHub, HTML, Heroku, Jasmine, JavaScript, Linux, MongoDB, MySQL, PHP, PostgreSQL, Python, SASS, Visual Studio Code, Vue.js, jQuery.</p>
 
