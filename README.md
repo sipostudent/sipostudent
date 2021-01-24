@@ -1,4 +1,4 @@
-<img align = "center" src = "img/snap1.png">
+<img align = "center" src = "img/py-cover.jpg">
 
 <h2>About Me</h2>
 
