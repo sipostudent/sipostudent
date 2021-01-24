@@ -8,9 +8,8 @@
 
 <p>🎯 <b>Goals</b>: Besides building web apps, I am also actively developing my practical knowledge of Data Analysis for Business Intelligence, and automating operations via DevOps.</p>
 
-<h2>Languages and Technologies</h2>
 
-<p>🚀 AWS, Atom, CSS, D3.js, Django, Django REST Framework, Docker, Flask, Git, GitHub, HTML, Heroku, Jasmine, JavaScript, Linux, MongoDB, MySQL, PHP, PostgreSQL, Python, SASS, Visual Studio Code, Vue.js, jQuery.</p>
+<p>🚀 <b>Languages and Technologies</b>: AWS, Atom, CSS, D3.js, Django, Django REST Framework, Docker, Flask, Git, GitHub, HTML, Heroku, Jasmine, JavaScript, Linux, MongoDB, MySQL, PHP, PostgreSQL, Python, SASS, Visual Studio Code, Vue.js, jQuery.</p>
 
 <h2>Connect On</h2>
 
