@@ -1,8 +1,8 @@
-<img align = "center" src = "img/hero-banner.jpg">
+<img align = "center" src = "img/my-domain-name.jpg">
 
 <h2>Summary</h2>
 
-<p>💻 <i>Python Web Developer</i>. Adept in various stages of the web development life cycle, heavily invested in the Python ecosystem. Knowledgeable in Django, Flask, APIs, but additionally Vue.js and JavaScript. MBA Alumnus, and MSc Computer Science with Software Engineering. Keen on developing scalable static, dynamic, e-commerce, portal, and content management web applications.</p>
+<p>💻 <i>Python Engineer / Developer</i>. Adept in various stages of the web development life cycle, heavily invested in the Python ecosystem. Knowledgeable in Django, Flask, APIs, but additionally Vue.js and JavaScript. MBA Alumnus, and MSc Computer Science with Software Engineering. Keen on developing scalable static, dynamic, e-commerce, portal, and content management web applications.</p>
 
 <p>⌚ <b>Additional Skills</b>: <i>Product Management</i>, including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards, and determining product specifications, production timelines, and in-depth plans for product development.</p>
 
