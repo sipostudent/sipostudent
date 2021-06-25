@@ -1,4 +1,4 @@
-<img align = "center" src = "img/domain.png">
+<img align = "center" src = "img/domain-banner.png">
 
 <h2>About</h2>
 
