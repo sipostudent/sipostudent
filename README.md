@@ -4,7 +4,7 @@
 
 <p>💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫: Adept in various stages of the software development life cycle (SDLC), heavily invested in the Python ecosystem. MSc Computer Science with Software Engineering candidate.</p>
 
-<p>Key knowledge areas include but are not limited to: -
+<p>🧠 Key knowledge areas include but are not limited to: -
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: Database Design, Relational Databases and SQL, Database Integrity and Security.
 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Design and implementation of mobile applications with Java for Android.
 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐖𝐞𝐛: Python frameworks Django and Flask, utilisation of APIs, JavaScript.
