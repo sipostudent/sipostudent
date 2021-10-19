@@ -1,4 +1,6 @@
-﻿**A full-stack software engineer**
+<img align = "center" src = "img/Sandybrown-Abstract-Technology-LinkedIn Banner.png">
+
+**A full-stack software engineer**
 
 I am knowledgeable in various stages of the software development life cycle (SDLC), with a strong commitment to the Python ecosystem. A student pursuing an MSc in Computer Science with a focus on Software Engineering.
 
@@ -70,3 +72,22 @@ Product management knowledge includes planning, budget management, and coordinat
 
 Computer science knowledge, programming, knowledge of coding languages, code optimization, APIs, information retrieval, software design, JIRA, Knowledge of web applications, technical documentation, Project management, Agile software development, Observation, Planning, Problem-solving, Collaboration, Communication, Active learning, Adaptability, Innovation, Mentoring, Creativity, Organisation, Leadership, Responsibility, Analysis.
 
+
+
+**Find me on:**
+
+[<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sipo Charles | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+<br />
+
+---
+
+<details>
+    <summary>:zap: GitHub stats</summary>
+    <img align="left" alt="sipostudent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sipostudent&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true" />
+</details>
+
+[website]: https://www.sipo.io/
+[medium]: https://medium.com/@sipocharles18
+[linkedin]: https://www.linkedin.com/in/sipo-cyrus-charles/
