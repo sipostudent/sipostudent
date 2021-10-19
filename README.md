@@ -1,6 +1,6 @@
 <img align = "center" src = "img/Sandybrown-Abstract-Technology-LinkedIn Banner.png">
 
-**A full-stack software engineer**
+**A Full-Stack Software Engineer**
 
 I am knowledgeable in various stages of the software development life cycle (SDLC), with a strong commitment to the Python ecosystem. A student pursuing an MSc in Computer Science with a focus on Software Engineering.
 
@@ -13,11 +13,11 @@ Key knowledge areas include but are not limited to:
 
 
 
-**Additional information**
+**Additional Information**
 
 Product management knowledge includes planning, budget management, and coordinating all working parts of a project; assessing customer desires and requirements to generate a product that meets those standards, and determining product specifications, production timelines, and in-depth plans for product development.
 
-**Technology and languages**
+**Technology and Languages**
 
 #1. The Key Tools a. Computer and operating system i. Windows ii. Linux. b. IDE i. IntelliJ ii. Android Studio c. Code Editor i. Visual Studio Code d. Version Control i. Git. #2. Client-Side a. Basics i. HTML ii. CSS iii. SCSS b. CSS Frameworks i. Bootstrap ii. Materialize iii. Bulma c. Programming Language i. JavaScript d. Client-Side Framework i. Vue.js. #3. Server-Side a. Programming Language i. Java ii. Python b. Server-Side Framework i. Django ii. Flask. #4. Database a. Relational Database i. PostgreSQL b. NoSQL i. MongoDB c. Lightweight i. SQLite. #5. Deployment & DevOps a. App Hosting i. Heroku b. Virtualization i. Docker c. Testing i. Jasmine ii. Pytest.
 
@@ -76,7 +76,7 @@ Computer science knowledge, programming, knowledge of coding languages, code opt
 
 
 
-**Find me on**
+**Find Me On**
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
