@@ -19,7 +19,7 @@ Product management knowledge includes planning, budget management, and coordinat
 
 **Technology and languages**
 
-`1. The Key Tools a. Computer and operating system i. Windows ii. Linux. b. IDE i. IntelliJ ii. Android Studio c. Code Editor i. Visual Studio Code d. Version Control i. Git. 2. Client-Side a. Basics i. HTML ii. CSS iii. SCSS b. CSS Frameworks i. Bootstrap ii. Materialize iii. Bulma c. Programming Language i. JavaScript d. Client-Side Framework i. Vue.js. 3. Server-Side a. Programming Language i. Java ii. Python b. Server-Side Framework i. Django ii. Flask. 4. Database a. Relational Database i. PostgreSQL b. NoSQL i. MongoDB c. Lightweight i. SQLite. 5. Deployment & DevOps a. App Hosting i. Heroku b. Virtualization i. Docker c. Testing i. Jasmine ii. Pytest.
+#1. The Key Tools a. Computer and operating system i. Windows ii. Linux. b. IDE i. IntelliJ ii. Android Studio c. Code Editor i. Visual Studio Code d. Version Control i. Git. #2. Client-Side a. Basics i. HTML ii. CSS iii. SCSS b. CSS Frameworks i. Bootstrap ii. Materialize iii. Bulma c. Programming Language i. JavaScript d. Client-Side Framework i. Vue.js. #3. Server-Side a. Programming Language i. Java ii. Python b. Server-Side Framework i. Django ii. Flask. #4. Database a. Relational Database i. PostgreSQL b. NoSQL i. MongoDB c. Lightweight i. SQLite. #5. Deployment & DevOps a. App Hosting i. Heroku b. Virtualization i. Docker c. Testing i. Jasmine ii. Pytest.
 
 <!-- 1. The Key Tools
    1. Computer and operating system
