@@ -7,7 +7,7 @@ I am knowledgeable in various stages of the software development life cycle (SDL
 Key knowledge areas include but are not limited to:
 
 - Database Systems, Database Design, SQL and Non-SQL, Database Integrity and Security.
-- Development, design, and implementation of mobile applications with Java for Android
+- Development, design, and implementation of mobile applications with Java for Android (learning in progress)
 - Web Development with Python Frameworks Django and Flask, utilisation of APIs, JavaScript
 - Networking principles, algorithms, and internet architecture technologies are all part of virtual and cloud computing.
 
