@@ -70,13 +70,13 @@ Product management knowledge includes planning, budget management, and coordinat
 
 
 
-**Keywords:**
+**Keywords**
 
 Computer science knowledge, programming, knowledge of coding languages, code optimization, APIs, information retrieval, software design, JIRA, Knowledge of web applications, technical documentation, Project management, Agile software development, Observation, Planning, Problem-solving, Collaboration, Communication, Active learning, Adaptability, Innovation, Mentoring, Creativity, Organisation, Leadership, Responsibility, Analysis.
 
 
 
-**Find me on:**
+**Find me on**
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
