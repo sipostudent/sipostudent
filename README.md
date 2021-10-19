@@ -1,29 +1,55 @@
-<img align = "center" src = "img/domain-banner.png">
+<img align = "center" src = "img/Sandybrown-Abstract-Technology-LinkedIn Banner.png">
 
 <h2>About</h2>
 
-<p>💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫: Adept in various stages of the software development life cycle (SDLC), heavily invested in the Python ecosystem. MSc Computer Science with Software Engineering candidate.</p>
+<br>
 
-<p>🧠 Key knowledge areas include but are not limited to: -
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: Database Design, Relational Databases and SQL, Database Integrity and Security.
-𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Design and implementation of mobile applications with Java for Android.
-𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐖𝐞𝐛: Python frameworks Django and Flask, utilisation of APIs, JavaScript.
-𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠: Networking principles, algorithms and internet architecture relevant technologies.</p>
+<p>
+<b>Software Engineer</b>
+<br>
+Adept in various stages of the software development life cycle (SDLC), heavily invested in the Python Ecosystem. An MSc candidate in Computer Science with Software Engineering.
+</p>
 
-<p>⚙️ 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Knowledge includes planning, budget management, and coordinating all working 
-parts of a project, assessing customer desires and requirements to generate a product that meets those 
-standards, and determining product specifications, production timelines, and in-depth plans for product 
-development. MBA Business Administration and Management alumnus.</p>
+<p>
+Key knowledge areas include but are not limited to:
+<br>
+<ul>
+<li>Database Systems: Database Design, SQL and Non-SQL, Database Integrity and Security</li>
+<li>Mobile App Development: Design and implementation of mobile applications with Java for Android</li>
+<li>Web Development: Python frameworks Django and Flask, utilisation of APIs, JavaScript</li>
+<li>Virtual and Cloud Computing: Networking principles, algorithms and internet architecture technologies</li>
+</ul>
+<p>
+
+<p>
+<b>Additional information</b>
+<br>
+Product Management knowledge including planning, budget management, and coordinating all working parts of a project, assessing customer desires and requirements to generate a product that meets those standards, and determining product specifications, production timelines, and in-depth plans for product development.
+</p>
 
 
-<p>🚀 𝐓𝐨𝐨𝐥𝐬: Computer & OS – Windows, Linux. IDE – IntelliJ, Android Studio. Code Editor – Visual Studio Code. 
-Version Control – Git. 𝐂𝐥𝐢𝐞𝐧𝐭-𝐒𝐢𝐝𝐞: Basics – HTML, CSS/SCSS. CSS Frameworks – Bootstrap, Materialize, Bulma. 
-Programming Language – JavaScript. Client-Side Framework – Vue.js. 
-𝐒𝐞𝐫𝐯𝐞𝐫-𝐒𝐢𝐝𝐞: Programming Language – Java, Python. Server-Side Framework – Django, Flask. 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: Relational Database – PostgreSQL. NoSQL – MongoDB. Lightweight – SQLite. 
-𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 & 𝐃𝐞𝐯𝐎𝐩𝐬: App Hosting – Heroku. Virtualization – Docker. Testing – Jasmine, Pytest.</p>
+<p>
+<b>Languages & technologies</b>
+<br>
 
-<h2>Connect On</h2>
+1. Tools: Computer & OS — Windows, Linux. IDE — IntelliJ, Android Studio. Code Editor — Visual Studio Code. Version Control — Git.<br> 
+
+2. Client-Side: Basics — HTML, CSS/SCSS. CSS Frameworks — Bootstrap, Materialize, Bulma. Programming Language — JavaScript. Client-Side Framework — Vue.js.<br> 
+
+3. Server-Side: Programming Language — Java, Python. Server-Side Framework — Django, Flask.<br>
+
+4. Database: Relational Database — PostgreSQL. NoSQL — MongoDB. Lightweight — SQLite.<br>
+
+5. Deployment & DevOps: App Hosting — Heroku. Virtualization — Docker. Testing — Jasmine, Pytest.
+</p>
+
+<p>
+<b>Keywords</b>
+<br>
+Computer science knowledge, Programming, Knowledge of coding languages, Code optimization, APIs, Information retrieval, Software design, JIRA, Knowledge of web applications, technical documentation, Project management, Agile software development, Observation, Planning, Problem-solving, Collaboration, Communication, Active learning, Adaptability, Innovation, Mentoring, Creativity, Organisation, Leadership, Responsibility, Analysis.
+</p>
+
+<h3>Find me on:</h3>
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
