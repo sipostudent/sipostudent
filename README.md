@@ -5,10 +5,12 @@
 I am knowledgeable in various stages of the software development life cycle (SDLC), with a strong commitment to the Python ecosystem. A student pursuing an MSc in Computer Science with a focus on Software Engineering.
 
 Key knowledge areas include but are not limited to:
-❇️ Cloud Computing and Virtualization — Virtualisation and cloud computing, which includes the networking principles, algorithms, and tech for the architecture of the internet.
-❇️ Database Management Systems — Database systems in info management, and the design and implementation of relational/non-relational database management systems.
-❇️ Full-Stack Software Development — Adept in web development using JavaScript and Python frameworks Django, Flask. I can design, construct, and deploy websites and APIs.
-❇️ Mobile Application Development — Design and implementation of mobile apps with Java for Android, including hardware, software considerations, and development.
+- Cloud Computing and Virtualization — Virtualisation and cloud computing, which includes the networking principles, algorithms, and tech for the architecture of the internet.
+- Database Management Systems — Database systems in info management, and the design and implementation of relational/non-relational database management systems.
+- Full-Stack Software Development — Adept in web development using JavaScript and Python frameworks Django, Flask. I can design, construct, and deploy websites and APIs.
+- Mobile Application Development — Design and implementation of mobile apps with Java for Android, including hardware, software considerations, and development.
+
+
 
 **Additional Information**
 
@@ -16,7 +18,7 @@ Product management knowledge includes planning, budget management, and coordinat
 
 **Technology and Languages**
 
-1) The Key Tools a) Computer and operating system i) Windows ii) Linux) b) IDE i) IntelliJ ii) Android Studio c) Code Editor i) Visual Studio Code d) Version Control i) Git) 2) Client-Side a) Basics i) HTML ii) CSS iii) SCSS b) CSS Frameworks i) Bootstrap ii) Materialize iii) Bulma c) Programming Language i) JavaScript d) Client-Side Framework i) Vue)js) 3) Server-Side a) Programming Language i) Java ii) Python b) Server-Side Framework i) Django ii) Flask) 4) Database a) Relational Database i) PostgreSQL b) NoSQL i) MongoDB c) Lightweight i) SQLite) 5) Deployment & DevOps a) App Hosting i) Heroku b) Virtualization i) Docker c) Testing i) Jasmine ii) Pytest)
+#1) Tools a) Computer and operating system i) Windows ii) Linux) b) IDE i) IntelliJ ii) Android Studio c) Code Editor i) Visual Studio Code d) Version Control i) Git) #2) Client-Side a) Basics i) HTML ii) CSS iii) SCSS b) CSS Frameworks i) Bootstrap ii) Materialize iii) Bulma c) Programming Language i) JavaScript d) Client-Side Framework i) Vue.js) #3) Server-Side a) Programming Language i) Java ii) Python b) Server-Side Framework i) Django ii) Flask) #4) Database a) Relational Database i) PostgreSQL b) NoSQL i) MongoDB c) Lightweight i) SQLite) #5) Deployment & DevOps a) App Hosting i) Heroku b) Virtualization i) Docker c) Testing i) Jasmine ii) Pytest)
 
 <!-- 1. The Key Tools
    1. Computer and operating system
