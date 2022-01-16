@@ -1,24 +1,20 @@
 <img align = "center" src = "img/Sandybrown-Abstract-Technology-LinkedIn Banner.png">
 
-**Software Engineer**
+**About**
 
-I am knowledgeable in various stages of the software development life cycle (SDLC), with a strong commitment to the Python ecosystem. A student pursuing an MSc in Computer Science with a focus on Software Engineering.
+As a former product manager for fast-moving consumer goods (FMCG) turned full-stack developer, I am knowledgeable in various phases of the product and software development lifecycles (PDLC and SDLC).
 
-Key knowledge areas include but are not limited to:
-- Cloud Computing and Virtualization — Virtualisation and cloud computing, which includes the networking principles, algorithms, and tech for the architecture of the internet.
-- Database Management Systems — Database systems in info management, and the design and implementation of relational/non-relational database management systems.
-- Full-Stack Software Development — Adept in web development using JavaScript and Python frameworks Django, Flask. I can design, construct, and deploy websites and APIs.
-- Mobile Application Development — Design and implementation of mobile apps with Java for Android, including hardware, software considerations, and development.
+Education-wise, I hold an MBA in Business Administration and Management and am enrolled in an MSc programme in Computer Science with a concentration in Software Engineering.
 
+With experience developing web applications in JavaScript and Python, my focus is on blockchain development. Working with the Bitcoin and Ethereum protocols, building projects for real-world applications, and gaining the necessary skills for a career in this dynamic space.
 
+Notable areas of knowledge include, but are not limited to the following:
 
-**Additional Information**
+- Database Systems---SQL, PostgreSQL, CRUD, Relations, JOINs, Subqueries, Window Functions, Partitions, Data Cleaning, DDL, DML, Relational and Non-Relational Databases
 
-Product management knowledge includes planning, budget management, and coordinating all working parts of a project; assessing customer desires and requirements to generate a product that meets those standards, and determining product specifications, production timelines, and in-depth plans for product development.
+- Full-Stack Web Development---HTML, CSS, Python, JavaScript, React.js, PostgreSQL, MongoDB, Django, Flask, Docker, Kubernetes, Testing, Code Debugging
 
-**Technology and Languages**
-
-#1) Tools a) Computer and operating system i) Windows ii) Linux) b) IDE i) IntelliJ ii) Android Studio c) Code Editor i) Visual Studio Code d) Version Control i) Git) #2) Client-Side a) Basics i) HTML ii) CSS iii) SCSS b) CSS Frameworks i) Bootstrap ii) Materialize iii) Bulma c) Programming Language i) JavaScript d) Client-Side Framework i) Vue.js) #3) Server-Side a) Programming Language i) Java ii) Python b) Server-Side Framework i) Django ii) Flask) #4) Database a) Relational Database i) PostgreSQL b) NoSQL i) MongoDB c) Lightweight i) SQLite) #5) Deployment & DevOps a) App Hosting i) Heroku b) Virtualization i) Docker c) Testing i) Jasmine ii) Pytest)
+- Product Management---knowledge includes planning, budget management, and coordinating all project working parts; assessing customer desires and requirements to generate a product that meets those standards; and determining product specifications, production timelines, and in-depth product development plans.
 
 <!-- 1. The Key Tools
    1. Computer and operating system
@@ -66,14 +62,6 @@ Product management knowledge includes planning, budget management, and coordinat
    1. Testing
       1. Jasmine
       1. Pytest. -->
-
-
-
-**Keywords**
-
-Computer science knowledge, programming, knowledge of coding languages, code optimization, APIs, information retrieval, software design, JIRA, Knowledge of web applications, technical documentation, Project management, Agile software development, Observation, Planning, Problem-solving, Collaboration, Communication, Active learning, Adaptability, Innovation, Mentoring, Creativity, Organisation, Leadership, Responsibility, Analysis.
-
-
 
 **Find Me On**
 
