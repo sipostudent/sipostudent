@@ -12,7 +12,7 @@ Notable areas of knowledge include, but are not limited to the following:
 
 - Database Systems---SQL, PostgreSQL, CRUD, Relations, JOINs, Subqueries, Window Functions, Partitions, Data Cleaning, DDL, DML, Relational and Non-Relational Databases
 
-- Full-Stack Web Development---HTML, CSS, Python, JavaScript, React.js, PostgreSQL, MongoDB, Django, Flask, Docker, Kubernetes, Testing, Code Debugging
+- Full-Stack Web Development---HTML, CSS, Python, JavaScript, React.js, PostgreSQL, MongoDB, Django, Flask, Docker, Testing, Code Debugging
 
 - Product Management---knowledge includes planning, budget management, and coordinating all project working parts; assessing customer desires and requirements to generate a product that meets those standards; and determining product specifications, production timelines, and in-depth product development plans.
 
