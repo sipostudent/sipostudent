@@ -1,4 +1,4 @@
-<img align = "center" src = "img/Sandybrown-Abstract-Technology-LinkedIn Banner.png">
+<img align = "center" src = "img/Sipo-Charles-SFT-ENg-Banner.png">
 
 **About**
 
@@ -10,11 +10,9 @@ With experience developing web applications in JavaScript and Python, my focus i
 
 Notable areas of knowledge include, but are not limited to the following:
 
-- Database Systems---SQL, PostgreSQL, CRUD, Relations, JOINs, Subqueries, Window Functions, Partitions, Data Cleaning, DDL, DML, Relational and Non-Relational Databases
+- Full-Stack Web Development: HTML, CSS, JavaScript, React.js, Python, PostgreSQL, MongoDB, Django, Flask. Able to design, build, and deploy APIs and web applications.
 
-- Full-Stack Web Development---HTML, CSS, Python, JavaScript, React.js, PostgreSQL, MongoDB, Django, Flask, Docker, Testing, Code Debugging
-
-- Product Management---knowledge includes planning, budget management, and coordinating all project working parts; assessing customer desires and requirements to generate a product that meets those standards; and determining product specifications, production timelines, and in-depth product development plans.
+- Fast-Moving Consumer Goods Product Management: This includes planning, budgeting, and coordinating all project components; analyzing customer desires and requirements in order to develop a product that meets those standards; and establishing product specifications, production timelines, and detailed product development plans.
 
 <!-- 1. The Key Tools
    1. Computer and operating system
