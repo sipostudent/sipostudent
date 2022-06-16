@@ -1,4 +1,4 @@
-<img align = "center" src = "img/Sipo-Charles-SFT-ENg-Banner.png">
+<img align = "center" src = "img/FullStackDevelopmentBanner.png">
 
 **About**
 
