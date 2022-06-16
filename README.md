@@ -6,7 +6,7 @@ As a former product manager for fast-moving consumer goods (FMCG) turned full-st
 
 Education-wise, I hold an MBA in Business Administration and Management and am enrolled in an MSc programme in Computer Science with a concentration in Software Engineering.
 
-With experience developing web applications in JavaScript and Python, my focus is on blockchain development, building projects for real-world applications, and gaining the necessary skills for a career in this dynamic space.
+With experience developing web applications in JavaScript and Python, my main goal is to keep working on projects that have real-world applicability and learn more skills that will help me grow my career in this fast-paced field.
 
 Notable areas of knowledge include, but are not limited to the following:
 
