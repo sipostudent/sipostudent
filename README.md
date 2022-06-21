@@ -1,65 +1,14 @@
-<img align = "center" src = "img/9.png">
+<img align = "center" src = "img/fredoka-glacial.png">
 
-**About**
+**Full Stack Developer**
 
-As a former product manager for fast-moving consumer goods (FMCG) turned full-stack developer, I am knowledgeable in various phases of the product and software development lifecycles (PDLC and SDLC).
+With expertise in fast-moving consumer goods, server-side web development, and interactive front-end web development, I am familiar with various phases of product and software development lifecycles. I aim to keep making web and mobile apps while learning more skills to help me move up in the fast-paced software development industry.
 
-Education-wise, I hold an MBA in Business Administration and Management and am enrolled in an MSc programme in Computer Science with a concentration in Software Engineering.
+Education-wise, I hold an MBA in Business Administration and Management, General, enhancing my knowledge of the primary functional areas of business management, including strategy, marketing, finance, and organisational change. I am also taking an MSc in Computer Science focusing on Software Engineering.
 
-With experience developing web applications in JavaScript and Python, my main goal is to keep working on projects that have real-world applicability and learn more skills that will help me grow my career in this fast-paced field.
+<i>Virtual and Cloud Computing, Data Structures and Algorithms, Systems Engineering, Database Systems, Software Development for the Web, Security and Risk Management in the Digital Environment, Secure Software Development and Mobile App Development</i>
 
-Notable areas of knowledge include, but are not limited to the following:
-
-- Full-Stack Web Development: HTML, CSS, JavaScript, React.js, Python, PostgreSQL, MongoDB, Django, Flask. Able to design, build, and deploy APIs and web applications.
-
-- Fast-Moving Consumer Goods Product Management: This includes planning, budgeting, and coordinating all project components; analyzing customer desires and requirements in order to develop a product that meets those standards; and establishing product specifications, production timelines, and detailed product development plans.
-
-<!-- 1. The Key Tools
-   1. Computer and operating system
-      1. Windows
-      1. Linux.
-   1. IDE
-      1. IntelliJ
-      1. Android Studio
-   1. Code Editor
-      1. Visual Studio Code
-   1. Version Control
-      1. Git.
-1. Client-Side
-   1. Basics
-      1. HTML
-      1. CSS
-      1. SCSS
-   1. CSS Frameworks
-      1. Bootstrap
-      1. Materialize
-      1. Bulma
-   1. Programming Language
-      1. JavaScript
-   1. Client-Side Framework
-      1. Vue.js.
-1. Server-Side
-   1. Programming Language
-      1. Java
-      1. Python
-   1. Server-Side Framework
-      1. Django
-      1. Flask.
-1. Database
-   1. Relational Database
-      1. PostgreSQL
-   1. NoSQL
-      1. MongoDB
-   1. Lightweight
-      1. SQLite.
-1. Deployment & DevOps
-   1. App Hosting
-      1. Heroku
-   1. Virtualization
-      1. Docker
-   1. Testing
-      1. Jasmine
-      1. Pytest. -->
+<strong>JavaScript, React, PHP, Python, Java, Flask, Django, SQL, and NoSQL.</strong>
 
 **Find Me On**
 
