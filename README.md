@@ -1,14 +1,20 @@
-<img align = "center" src = "img/fredoka-glacial.png">
+<img align = "center" src = "img/Linkedin-Banner-2022.jpg">
 
-**Full Stack Developer**
+## About Me
 
 With expertise in fast-moving consumer goods, server-side web development, and interactive front-end web development, I am familiar with various phases of product and software development lifecycles. I aim to keep making web and mobile apps while learning more skills to help me move up in the fast-paced software development industry.
 
+### 👨‍🎓 Formal Studies
+
 Education-wise, I hold an MBA in Business Administration and Management, General, enhancing my knowledge of the primary functional areas of business management, including strategy, marketing, finance, and organisational change. I am also taking an MSc in Computer Science focusing on Software Engineering.
 
-<i>Virtual and Cloud Computing, Data Structures and Algorithms, Systems Engineering, Database Systems, Software Development for the Web, Security and Risk Management in the Digital Environment, Secure Software Development and Mobile App Development</i>
+### 🧠 Core Competencies
 
-<strong>JavaScript, React, PHP, Python, Java, Flask, Django, SQL, and NoSQL.</strong>
+Virtualization and Cloud Computing, Data Structures and Algorithms, Systems Engineering, Database Systems, Software Development for the Web, Security and Risk Management in the Digital Environment, Secure Software Development, and Mobile App Development
+
+### 💻 Programming Lang/Frameworks
+
+Django, JavaScript, MySQL, PHP, PostgreSQL, Python, React
 
 **Find Me On**
 
