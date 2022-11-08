@@ -1,26 +1,19 @@
-<img align = "center" src = "img/Linkedin-Banner-2022.jpg">
+<img align = "center" src = "img/LinkedInBanner.png">
 
 ## About Me
 
-With expertise in fast-moving consumer goods, server-side web development, and interactive front-end web development, I am familiar with various phases of product and software development lifecycles. I aim to keep making web and mobile apps while learning more skills to help me move up in the fast-paced software development industry.
+With experience in <b>fast-moving consumer goods product management, server-side development (Python, PHP, SQL), interactive front-end development (JavaScript)</b>, I am familiar with the different stages of the product and software development life cycles.
 
-### 👨‍🎓 Formal Studies
+Experience collaborating directly with clients, partners, distributors, and resellers to solve their issues and fulfil their needs by facilitating the provision of bespoke consulting and development through internal and external product development and strategic alliances.
 
-Education-wise, I hold an MBA in Business Administration and Management, General, enhancing my knowledge of the primary functional areas of business management, including strategy, marketing, finance, and organisational change. I am also taking an MSc in Computer Science focusing on Software Engineering.
+I aim to stay within the field of digital asset management and/or software development while learning more skills to help me move up in the fast-paced technology sector.
 
-### 🧠 Core Competencies
-
-Virtualization and Cloud Computing, Data Structures and Algorithms, Systems Engineering, Database Systems, Software Development for the Web, Security and Risk Management in the Digital Environment, Secure Software Development, and Mobile App Development
-
-### 💻 Programming Lang/Frameworks
-
-Django, JavaScript, MySQL, PHP, PostgreSQL, Python, React
+Education-wise, I hold an <b>MBA in Business Administration and Management, General</b>, enhancing my knowledge of the primary functional areas of business management, including strategy, marketing, finance, and organisational change. I am also taking an <b>MSc in Computer Science with Software Engineering</b> (Class of 2023).
 
 **Find Me On**
 
 [<img align="left" alt="Sipo Charles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sipo.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sipo Charles | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 ---
